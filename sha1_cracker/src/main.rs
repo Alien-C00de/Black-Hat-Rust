@@ -36,7 +36,7 @@ fn main() -> Result<(), Box<dyn Error>> {
         println!("{}", line);
     }
     println!("Password not found in the word list");
-
+    println!("New code");
 
     Ok(())
 }
