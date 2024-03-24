@@ -1,2 +1,2 @@
 # Black-Hat-Rust
-This repositiry contain Black Hat Rust pograms
+This repository contain Black Hat Rust programs.
